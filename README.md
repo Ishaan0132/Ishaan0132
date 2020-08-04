@@ -8,9 +8,14 @@ Hi, I'm 18 years old Self-taught Front End Web Developer 🚀 from India, curren
 
 **Languages and Tools:**  
 
-<code><img  height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html"></code>   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
+<br/>
 
 <p align="center" >
     <img  src="https://github-readme-stats.vercel.app/api?username=flyingphantom&&show_icons=true&theme=radical"/>
