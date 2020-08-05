@@ -6,7 +6,7 @@ Hi, I'm 15 years old Self-taught Front End Web Developer 🚀 from India, curren
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-**Languages and Tools:**  
+**- Languages and Tools:**  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/html.svg" alt="html" style="vertical-align:top; margin:4px">    
