@@ -6,7 +6,17 @@ Hi, I'm 15 years old Self-taught Front End Web Developer 🚀 from India, curren
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-**- Languages and Tools:**  
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Backend development using **Nodejs**
+
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 🎯 Portfolio site: [Portfolio](http://flyingphantom.github.io/)
+- ⚡ Fun fact: The term internet surfing was coined by a librarian from New York.
+
+## - Languages and Tools: 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/html.svg" alt="html" style="vertical-align:top; margin:4px">    
