@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi, I'm 18 years old Self-taught Front End Web Developer 🚀 from India, currently, I'm a studying. Beside's programming, I enjoy eating food and spriting.
+Hi, I'm 15 years old Self-taught Front End Web Developer 🚀 from India, currently, I'm a studying. Beside's programming, I enjoy eating food and spriting.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
