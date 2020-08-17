@@ -19,10 +19,10 @@ Talk to me about
 ## - Languages and Tools: 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/images/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 <br/>
