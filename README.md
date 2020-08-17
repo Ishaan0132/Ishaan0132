@@ -28,7 +28,7 @@ Talk to me about
 <br/>
 
 <p align="center" >
-    <img  src="https://github-readme-stats.vercel.app/api?username=flyingphantom&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=flyingphantom&show_icons=true&title_color=00fbff&icon_color=42f2f5&text_color=ffffff&bg_color=000000"/>
     <!--README quotes repo - https://github.com/piyushsuthar/github-readme-quotes -->
     <img src="https://quotes-github-readme.vercel.app/api"/>
 </p>
