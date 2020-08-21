@@ -20,10 +20,10 @@ Talk to me about
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/bootstrap.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/js.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/nodejs.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/npm.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
