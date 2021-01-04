@@ -36,8 +36,5 @@ Talk to me about
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingphantom&layout=compact&show_icons=true&title_color=00fbff&text_color=ffffff&bg_color=000000" />
   </a> 
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-  </a>
 </p>
 
