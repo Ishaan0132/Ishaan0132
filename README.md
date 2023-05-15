@@ -13,7 +13,7 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](http://flyingphantom.github.io/)
+<!--- 🎯 Portfolio site: [Portfolio](http://flyingphantom.github.io/)-->
 - Why do JavaScript developers prefer poetry? Because it's easier to understand callback functions in verse!
 
 ## - Languages and Tools: 
