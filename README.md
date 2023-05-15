@@ -2,11 +2,7 @@
 
 <br/>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=flyingphantom.flyingphantom" height="20" width="70"/>
-
-<br/>
-
-Hi, I'm 16 years old Self-taught Front End Web Developer 🚀 from India.
+Hi, I'm Ishaan Shaikh, a web developer based in India. My Github showcases my skills in front-end and back-end web development. I'm passionate about open-source software, collaborative coding, and staying up-to-date with the latest industry trends. Let's connect and collaborate on exciting projects together!
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" height="265" width="425" align="right" alt="program" />
 
@@ -18,7 +14,7 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](http://flyingphantom.github.io/)
-- ⚡ Fun fact: The term internet surfing was coined by a librarian from New York.
+- Why do JavaScript developers prefer poetry? Because it's easier to understand callback functions in verse!
 
 ## - Languages and Tools: 
 
