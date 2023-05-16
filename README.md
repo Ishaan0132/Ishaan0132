@@ -31,10 +31,10 @@ Talk to me about
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=flyingphantom&show_icons=true&title_color=00fbff&icon_color=42f2f5&text_color=ffffff&bg_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ishaan0132&show_icons=true&title_color=00fbff&icon_color=42f2f5&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingphantom&layout=compact&show_icons=true&title_color=00fbff&text_color=ffffff&bg_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan0132&layout=compact&show_icons=true&title_color=00fbff&text_color=ffffff&bg_color=000000" />
   </a> 
 </p>
 
