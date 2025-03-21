@@ -1,4 +1,4 @@
-![](assests\header.png)
+![](assests/header.png)
 I'm a Computer Engineering student passionate about **Machine Learning, Computer Vision, and Open Source Development**. I enjoy exploring **cybersecurity** and **deep learning**, finding innovative ways to enhance security and intelligence in real-world applications.
 
 I enjoy solving real-world problems with code, contributing to open-source projects, and continuously learning new technologies. Currently, I'm exploring **confidence calibration in pose estimation** and its impact on improving model reliability.  
