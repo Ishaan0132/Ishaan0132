@@ -1,40 +1,51 @@
-### Hi there, I'm Ishaan 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+![](github-header-image.png)
+I'm a Computer Engineering student passionate about **Machine Learning, Computer Vision, and Open Source Development**. I enjoy exploring **cybersecurity** and **deep learning**, finding innovative ways to enhance security and intelligence in real-world applications.
 
-<br/>
+I enjoy solving real-world problems with code, contributing to open-source projects, and continuously learning new technologies. Currently, I'm exploring **confidence calibration in pose estimation** and its impact on improving model reliability.  
 
-Hi, I'm Ishaan Shaikh, a web developer based in India. My Github showcases my skills in front-end and back-end web development. I'm passionate about open-source software, collaborative coding, and staying up-to-date with the latest industry trends. Let's connect and collaborate on exciting projects together!
+---
 
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" height="265" width="425" align="right" alt="program" />
+## 👩‍💻 About Me
+- Currently exploring **Deep Learning and Computer Vision**
+- Enthusiastic about **problem solving**
+- Passionate about **Open-source development**
+- Enjoy participating in **CTFs, coding challenges, and tech events**  
 
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Nodejs**
+---
 
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-<!--- 🎯 Portfolio site: [Portfolio](http://flyingphantom.github.io/)-->
-- Why do JavaScript developers prefer poetry? Because it's easier to understand callback functions in verse!
+## 🛠️ Languages & Tools  
 
-## - Languages and Tools: 
+### **Programming Languages**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/FlyingPhantom/FlyingPhantom/master/badges/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+### **Libraries and Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br/>
+### **Development & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ishaan0132&show_icons=true&title_color=00fbff&icon_color=42f2f5&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan0132&layout=compact&show_icons=true&title_color=00fbff&text_color=ffffff&bg_color=000000" />
-  </a> 
-</p>
+---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan0132&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan0132&layout=compact&theme=tokyonight)
+
+---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ishaan0132&theme=tokyonight&no-frame=true&margin-w=5)
+
+---
